@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>HI HOBUTCHI</h1>
     <h2>HALLO CZARINA</h2>
+    <h3>HALLO BUNNY</h3>
   </div>
 </template>
 
